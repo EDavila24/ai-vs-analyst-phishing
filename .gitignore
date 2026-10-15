@@ -1,0 +1,15 @@
+# Raw phishing samples: never commit (may contain my address + live malware)
+raw/
+*.eml
+*.msg
+
+# Never commit secrets
+.env
+*.key
+*.pem
+
+# Obsidian settings (if this folder is opened as a vault)
+.obsidian/
+
+# macOS
+.DS_Store
