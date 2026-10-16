@@ -7,7 +7,7 @@
 | **Collected from** | <!-- Gmail spam / old account / etc. --> |
 | **Date received** | |
 | **Raw file** | `raw/PHISH-<!-- 000 -->.eml` (never committed) |
-| **Evidence pack** | `cases/PHISH-<!-- 000 -->-evidence.txt` (redacted) |
+| **Evidence pack** | `cases/PHISH-<!-- 000 -->-evidence.md` (redacted) |
 | **Time I spent triaging** | <!-- minutes, start to verdict --> |
 
 ## Safe handling

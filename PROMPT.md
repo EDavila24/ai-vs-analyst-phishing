@@ -6,7 +6,7 @@ Every email gets the **same prompt**, in a **fresh chat**, with the **same evide
 
 1. **Triage it myself first.** Finish the case file before the AI sees the email.
 2. **Fresh chat each time.** Memory/personalization off, no project or custom instructions, web browsing off. The AI judges only the evidence pack, the way a Tier 1 analyst judges an alert before enrichment.
-3. **Paste only the redacted evidence pack** (`cases/PHISH-00X-evidence.txt`). Never my notes or verdict.
+3. **Paste only the redacted evidence pack** (`cases/PHISH-00X-evidence.md`). Never my notes or verdict.
 4. **First answer only.** No follow-ups, no hints, no "are you sure?". Re-runs go in as separate runs, and I grade each one.
 5. **Save the response verbatim** to `ai-runs/PHISH-00X-run1.md`, with the header below.
 
@@ -17,7 +17,7 @@ Model:        <!-- e.g. the exact model name shown in the app -->
 Date/time:    <!-- -->
 Browsing:     off
 Memory:       off
-Evidence:     cases/PHISH-00X-evidence.txt
+Evidence:     cases/PHISH-00X-evidence.md
 Response time: <!-- seconds, roughly -->
 ```
 

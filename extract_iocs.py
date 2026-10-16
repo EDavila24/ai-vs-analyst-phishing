@@ -6,7 +6,7 @@ The output is the "evidence pack": I triage from it, and the AI gets the
 exact same text, so the comparison is fair.
 
 Usage:
-    python3 -I extract_iocs.py raw/PHISH-001.eml > cases/PHISH-001-evidence.txt
+    python3 -I extract_iocs.py raw/PHISH-001.eml > cases/PHISH-001-evidence.md
 """
 import email
 import hashlib
