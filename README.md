@@ -62,3 +62,4 @@
 | [`GRADING.md`](GRADING.md) | Rubric and full scorecard |
 | [`cases/`](cases/) | Completed case files and redacted evidence packs |
 | [`ai-runs/`](ai-runs/) | Verbatim AI responses |
+| [`JOURNAL.md`](JOURNAL.md) | Dated step-by-step log of how I built this |
