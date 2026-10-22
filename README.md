@@ -63,3 +63,4 @@
 | [`cases/`](cases/) | Completed case files and redacted evidence packs |
 | [`ai-runs/`](ai-runs/) | Verbatim AI responses |
 | [`JOURNAL.md`](JOURNAL.md) | Dated step-by-step log of how I built this |
+| [`REFERENCES.md`](REFERENCES.md) | OSINT tools, standards and frameworks I used, and what each told me |
